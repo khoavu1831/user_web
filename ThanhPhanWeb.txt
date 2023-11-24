@@ -1,0 +1,19 @@
+1.Header
+2.navigation (điều hướng)
+3.Breadcrumb (đường dẫn-vd:Thực đơn->Nước uống->Cocacola
+4.Sidebar: thanh menu trái/phải
+5.Sider: nội dung (ảnh động/ chữ động..)
+6.Content (nội dung chính)
+7.Footer
+
+***
+Code:
+1.Vị trí
+2.Kích thước (width,height)
+3.Màu sắc
+4.Kiểu dáng (kiểu chữ, hình tròn, vuông..)
+***
+Quan sát:
+1.Từ ngoài vào trong
+2.Từ trên xuống dưới
+3.Tổng quan chi tiết
